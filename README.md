@@ -1,3 +1,3 @@
 # generate-chartjs
 A Dynamic Chartjs Generator
-Link: http://nasir9bd.github.io/generate-chartjs/
+Link: http://mathieumorrissette.github.io/generate-chartjs/
